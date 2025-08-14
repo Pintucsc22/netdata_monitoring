@@ -53,19 +53,23 @@ http://<your-server-ip>:19999
 
 ### Netdata Home Dashboard
 
-![Netdata Home](.)
+![Netdata Home](/Screenshots/Dashboard.png)
 
 ### Docker Containers Metrics
 
-![Docker Containers](screenshot_docker.png)
+![Docker Containers](/Screenshots/docker.png)
 
-### CPU & Memory Usage
+### Memory Usage
 
-![CPU and Memory](screenshot_cpu_mem.png)
+![Memory](/Screenshots/memory.png)
 
-### Network and Disk I/O
+### CPU Usage
 
-![Network Disk](screenshot_network_disk.png)
+![CPU](/Screenshots/cpu.png)
+
+### Network
+
+![Network Disk](/Screenshots/Network.png)
 
 ---
 
